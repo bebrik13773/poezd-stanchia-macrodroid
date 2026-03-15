@@ -14,9 +14,7 @@
 4. Работа без интернета
 
 #### Скриншоты:
-![[Screenshot_2026-03-15-11-20-46-51_2e840d222d67ef3caca3a1c67d71d48f.jpg]]
 
-![[Screenshot_2026-03-15-11-20-39-38_2e840d222d67ef3caca3a1c67d71d48f.jpg]]![[Screenshot_2026-03-15-11-20-21-21_2e840d222d67ef3caca3a1c67d71d48f.jpg]]![[Screenshot_2026-03-15-11-20-28-98_2e840d222d67ef3caca3a1c67d71d48f.jpg]]![[Screenshot_2026-03-15-11-20-34-51_2e840d222d67ef3caca3a1c67d71d48f.jpg]]
 #### Установка:
 1. Установить Macrodroid ([Google Play](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid))
 2. Скачать все файлы из папки ([Яндекс диск](https://disk.yandex.ru/d/87kM5e8x2FZZMQ))
