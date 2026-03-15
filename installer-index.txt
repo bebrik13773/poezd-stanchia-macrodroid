@@ -1,0 +1,1 @@
+{"github":"https:\/\/github.com\/bebrik13773\/poezd-stanchia-macrodroid","installer":{"files-index":{"1":""},"script":""},"name":"Поезд станция","description":"Поезд станция — это мини-приложение для MacroDroid, которое показывает информацию о следующей станции поезда. Особенно полезно в дороге."}
