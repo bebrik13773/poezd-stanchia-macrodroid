@@ -2,10 +2,11 @@
 ](https://rasp.yandex.ru/)
 ##### Оглавление:
 1. [#Функции](https://github.com/bebrik13773/poezd-stanchia-macrodroid?tab=readme-ov-file#функции)
-2. [[#Скриншоты]]
-3. [[#Установка]]
-4. [[#Добавление ярлыка]]
-5. [[#Настройка]]
+2. [#Скриншоты](https://github.com/bebrik13773/poezd-stanchia-macrodroid?tab=readme-ov-file#скриншоты)
+3. [#Установка](https://github.com/bebrik13773/poezd-stanchia-macrodroid?tab=readme-ov-file#установка)
+4. [#Добавление ярлыка](https://github.com/bebrik13773/poezd-stanchia-macrodroid?tab=readme-ov-file#добавление-ярлыка)
+5. [#Настройка](https://github.com/bebrik13773/poezd-stanchia-macrodroid?tab=readme-ov-file#настройка)
+   
 #### Функции:
 1. Просматривать название, время до прибытия, время стоянки следующих станций
 2. Быстро настраивать рейс
